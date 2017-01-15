@@ -1,0 +1,29 @@
+.topbar {
+    background-color: grey;
+    width:802px;
+    display: block;
+}
+
+#myCanvas {
+    cursor:crosshair;
+}
+
+.colors {
+    display: inline-block;
+    margin-top:10px;
+}
+
+#black {
+    width:10px;
+    height: 10px;
+    background-color: black;
+    display: inline-block;
+    margin-left:50px;
+}
+
+#red {
+    width:10px;
+    height: 10px;
+    background-color: red;
+    display: inline-block;
+}
