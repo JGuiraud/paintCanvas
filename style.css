@@ -1,11 +1,12 @@
 .topbar {
-    background-color: grey;
+    background-color: purple;
     width:802px;
     display: block;
 }
 
 #myCanvas {
     cursor:crosshair;
+    background-color: white;
 }
 
 .colors {
@@ -26,4 +27,8 @@
     height: 10px;
     background-color: red;
     display: inline-block;
+}
+
+body{
+    background-color: blue;
 }
